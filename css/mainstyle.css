@@ -1,3 +1,7 @@
-.col div {
-    border: 1px solid #ccc;
+body {
+    background: #555 !important;
+}
+
+.container, .container-fluid {
+    /*background: #ccc;*/
 }
