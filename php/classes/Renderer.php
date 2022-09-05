@@ -5,8 +5,6 @@ class Renderer
 
     public function __construct()
     {
-        $ds = DIRECTORY_SEPARATOR;
-
         $this->map = [
             "mainmenu" => "content/mainmenu.php",
             "notfound" => "content/notfound.php",
